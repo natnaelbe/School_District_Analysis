@@ -6,7 +6,7 @@
 ## For the school summary, the percentage between reading and math scores differs by a minimum of 10%.
 ## For Thomas High School, math and reading scores are irrelevant and not affected unlike Huang High School.
 ### For the THS 9th graders, the percentage is unaffected since it is categorized as nan. However, the student received an F.
-### The budget amount for THS does not change regardless of the score they receive.
+### The budget amount for THS is calculated to be over $1,000,000.
 ### The school size for THS has a medium student population.
 ### Since THS is a charter school, the average math and reading scores are approximately 83%.
 ## 1. Recalculate the formula so that NaN does not appear.
